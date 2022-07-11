@@ -82,4 +82,5 @@ class TokenList:
 if __name__ == '__main__':
     token_bot = TokenList()
     # token_bot.start_get_tokens_from_coinmaketcap()
+
     token_bot.start_get_tokens_from_coingecko()
